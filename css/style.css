@@ -1000,6 +1000,7 @@ button {
 }
 
 .menu-toggle-close {
+  z-index: 99;
   position: absolute;
   top: 24px;
   right: 24px;
